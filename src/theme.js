@@ -122,6 +122,6 @@ export const tokens = (mode) => (
     }
  )
     }
-)
+);
 
 
