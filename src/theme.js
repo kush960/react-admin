@@ -1,6 +1,6 @@
 import { createContext, useState, useMemo } from "react";
 import { createTheme } from "@mui/material";
-import { Battery2Bar } from "@mui/icons-material";
+{/* import { Battery2Bar } from "@mui/icons-material"; */}
 
 // color design token to import
 export const tokens = (mode) => (
