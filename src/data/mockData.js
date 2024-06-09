@@ -214,7 +214,7 @@ export const mockDataInvoices = [
     email: "cerseilannister@gmail.com",
     cost: "1.24",
     phone: "(421)314-2288",
-    date: "06/15/2021",
+    date: "06/15/2023",
   },
   {
     id: 3,
@@ -238,7 +238,7 @@ export const mockDataInvoices = [
     email: "daenerystargaryen@gmail.com",
     cost: "1.24",
     phone: "(421)445-1189",
-    date: "01/12/2021",
+    date: "01/12/2023",
   },
   {
     id: 6,
@@ -262,7 +262,7 @@ export const mockDataInvoices = [
     email: "rossinifrances@gmail.com",
     cost: "21.24",
     phone: "(222)444-5555",
-    date: "05/02/2021",
+    date: "05/02/2023",
   },
 ];
 
@@ -270,7 +270,7 @@ export const mockTransactions = [
   {
     txId: "01e4dsa",
     user: "johndoe",
-    date: "2021-09-01",
+    date: "2023-09-01",
     cost: "43.95",
   },
   {
@@ -282,7 +282,7 @@ export const mockTransactions = [
   {
     txId: "01e4dsa",
     user: "aberdohnny",
-    date: "2021-09-01",
+    date: "2023-09-01",
     cost: "43.95",
   },
   {
@@ -300,7 +300,7 @@ export const mockTransactions = [
   {
     txId: "01e4dsa",
     user: "aberdohnny",
-    date: "2021-09-01",
+    date: "2023-09-01",
     cost: "43.95",
   },
   {
