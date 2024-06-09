@@ -270,19 +270,19 @@ export const mockTransactions = [
   {
     txId: "01e4dsa",
     user: "johndoe",
-    date: "2023-09-01",
+    date: "2024-05-01",
     cost: "43.95",
   },
   {
     txId: "0315dsaa",
     user: "jackdower",
-    date: "2022-04-01",
+    date: "2024-04-30",
     cost: "133.45",
   },
   {
     txId: "01e4dsa",
     user: "aberdohnny",
-    date: "2023-09-01",
+    date: "2024-06-01",
     cost: "43.95",
   },
   {
